@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm [Lê Trung Thịnh!] 👋
 ![](https://komarev.com/ghpvc/?username=TrungThinhIT)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
